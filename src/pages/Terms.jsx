@@ -9,7 +9,7 @@ const Terms = () => {
         <h1 style={{ margin: 0 }}>Terms of Service</h1>
       </div>
       
-      <p>Last updated: {new Date().toLocaleDateString()}</p>
+      <p>Last updated: May 19, 2026</p>
       
       <h2>1. Acceptance of Terms</h2>
       <p>By accessing and using the Lonie app, you agree to be bound by these Terms of Service. If you do not agree with any part of these terms, please do not use our application.</p>
