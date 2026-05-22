@@ -21,7 +21,7 @@ const Privacy = () => {
         <li><strong>Voice Data:</strong> When you speak inside a practice scenario, your voice is processed in real time to convert it to text. We do not permanently store raw audio files.</li>
         <li><strong>User Content:</strong> Text messages you type or that are transcribed from speech, the AI's responses, scenarios you start, custom scenarios you create, and phrases you save to your phrasebook.</li>
         <li><strong>Usage &amp; Progress Data:</strong> Daily streak, XP, level, weekly leaderboard score, scenario completion history, interest signals derived from your activity, and learning goals you select.</li>
-        <li><strong>Subscription Data:</strong> Whether you have an active Premium subscription. Actual payment details (card numbers, billing addresses) are handled directly by Apple or Google and are never sent to us.</li>
+        <li><strong>Subscription Data:</strong> Whether you have an active Premium subscription. Actual payment details (card numbers, billing addresses) are handled directly by Apple and are never sent to us.</li>
         <li><strong>Device &amp; Technical Data:</strong> Device model, operating system version, app version, timezone offset, language preference, and (if you opt in to crash reporting) anonymous crash and performance diagnostics.</li>
         <li><strong>Push Notification Tokens:</strong> If you grant notification permission, we store the Expo / APNs token tied to your device so we can send streak reminders and weekly reports.</li>
       </ul>
@@ -31,7 +31,7 @@ const Privacy = () => {
         <li>To provide AI-powered language coaching, including real-time speech recognition and grammar feedback.</li>
         <li>To maintain your account, progress, streaks, phrasebook, friends, and leaderboards.</li>
         <li>To send transactional emails (login codes) and, with your permission, push notifications.</li>
-        <li>To process subscriptions through Apple App Store / Google Play and unlock Premium features via RevenueCat.</li>
+        <li>To process subscriptions through Apple App Store and unlock Premium features via RevenueCat.</li>
         <li>To detect abuse, prevent fraud, enforce our Terms, and keep the Service safe.</li>
         <li>To diagnose crashes and improve app stability and performance.</li>
         <li>To measure the effectiveness of marketing campaigns in aggregate (we do not engage in cross-context behavioral advertising directed at children).</li>
@@ -44,7 +44,7 @@ const Privacy = () => {
         <li><strong>Amazon Web Services (AWS)</strong> — Hosts our backend (Lambda, API Gateway, RDS PostgreSQL) in the EU (Frankfurt) region.</li>
         <li><strong>RevenueCat</strong> — Manages subscription state across iOS and Android.</li>
         <li><strong>Resend</strong> — Delivers transactional emails (login codes).</li>
-        <li><strong>Apple App Store / Google Play</strong> — Process subscription payments and handle billing.</li>
+        <li><strong>Apple App Store</strong> — Process subscription payments and handle billing.</li>
         <li><strong>Expo / Apple Push Notification service (APNs) / Firebase Cloud Messaging (FCM)</strong> — Deliver push notifications.</li>
         <li><strong>Sentry</strong> (if enabled) — Receives anonymized crash and performance reports to help us fix bugs.</li>
       </ul>

@@ -11,8 +11,7 @@
 
 <p align="center">
   <a href="https://lonieapp.com">🌐 Website</a> •
-  <a href="https://apps.apple.com/app/lonie/id6744076938">📱 App Store</a> •
-  <a href="https://play.google.com/store/apps/details?id=com.lonie.app">🤖 Google Play</a>
+  <a href="https://apps.apple.com/tr/app/lonie/id6762192880">📱 App Store</a>
 </p>
 
 ---
@@ -43,7 +42,7 @@ The app supports **6 languages**: 🇬🇧 English, 🇪🇸 Spanish, 🇫🇷 F
 | 🏆 **Weekly Leaderboard** | Compete with other users — Top 10 win free Premium every Sunday |
 | ❤️ **Phrasebook** | Save AI corrections for later review |
 | 🌍 **6 Languages** | Full UI localization + scenario translations for EN, ES, FR, DE, PT, TR |
-| 👑 **Premium Subscriptions** | In-app purchases via Apple App Store & Google Play |
+| 👑 **Premium Subscriptions** | In-app purchases via Apple App Store |
 | 📧 **Passwordless Auth** | Secure email OTP authentication — no passwords needed |
 
 ---
@@ -121,7 +120,7 @@ The app supports **6 languages**: 🇬🇧 English, 🇪🇸 Spanish, 🇫🇷 F
 | **AsyncStorage** | Local data persistence |
 | **expo-haptics** | Tactile feedback for interactions |
 | **Lucide Icons** | UI iconography |
-| **EAS Build** | Cloud builds for App Store & Google Play |
+| **EAS Build** | Cloud builds for App Store |
 
 ### Landing Page (This Repo)
 | Technology | Purpose |

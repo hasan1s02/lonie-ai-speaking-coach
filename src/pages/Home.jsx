@@ -32,13 +32,9 @@ const Home = () => {
             <span className="hero-badge" style={{ marginBottom: 0, fontSize: '0.8rem', padding: '0.25rem 0.75rem' }}>✈️ Airport Custom</span>
           </div>
           <div className="hero-actions delay-1 fade-in">
-            <a href="#" className="btn btn-primary">
+            <a href="https://apps.apple.com/tr/app/lonie/id6762192880" className="btn btn-primary">
               <Apple size={24} />
               App Store
-            </a>
-            <a href="#" className="btn btn-secondary">
-              <Smartphone size={24} />
-              Play Store
             </a>
           </div>
         </div>
@@ -204,7 +200,7 @@ const Home = () => {
           <div className="cta-banner-content">
             <h2>Ready to Speak Like a Native?</h2>
             <p>Join thousands of learners improving their English every single day.</p>
-            <button className="btn">Download Lonie Now</button>
+            <a href="https://apps.apple.com/tr/app/lonie/id6762192880" className="btn">Download Lonie Now</a>
           </div>
         </div>
       </section>

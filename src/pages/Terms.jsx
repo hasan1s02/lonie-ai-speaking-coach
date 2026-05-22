@@ -15,7 +15,7 @@ const Terms = () => {
       <p>By accessing and using the Lonie app, you agree to be bound by these Terms of Service. If you do not agree with any part of these terms, please do not use our application.</p>
 
       <h2>2. Subscription and Payments</h2>
-      <p>Lonie provides premium features accessible via a recurring subscription (Monthly or Quarterly). Subscriptions auto-renew unless canceled at least 24 hours before the end of the current period. Payments are handled securely entirely through Apple App Store or Google Play Store mechanisms. You can cancel your subscription inside your device's native subscription settings.</p>
+      <p>Lonie provides premium features accessible via a recurring subscription (Monthly or Quarterly). Subscriptions auto-renew unless canceled at least 24 hours before the end of the current period. Payments are handled securely entirely through Apple App Store mechanisms. You can cancel your subscription inside your device's native subscription settings.</p>
 
       <h2>3. Code of Conduct</h2>
       <p>You agree to use Lonie for its intended educational purpose of practicing English. Abusive, explicit, or inappropriate language submitted maliciously to the AI may result in access restrictions to maintain system integrity.</p>
