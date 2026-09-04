@@ -8,6 +8,9 @@ const Privacy = lazy(() => import('./pages/Privacy'));
 const Blog = lazy(() => import('./pages/Blog'));
 const Terms = lazy(() => import('./pages/Terms'));
 
+const KadenPrivacy = lazy(() => import('./pages/KadenPrivacy'));
+const KadenTerms = lazy(() => import('./pages/KadenTerms'));
+
 // Simple loading fallback
 const Loading = () => (
   <div style={{ height: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#6366F1' }}>
@@ -25,6 +28,10 @@ function App() {
             <Route path="blog" element={<Blog />} />
             <Route path="privacy" element={<Privacy />} />
             <Route path="terms" element={<Terms />} />
+            
+            {/* Kaden App Routes */}
+            <Route path="kaden/privacy" element={<KadenPrivacy />} />
+            <Route path="kaden/terms" element={<KadenTerms />} />
           </Route>
         </Routes>
       </Suspense>
