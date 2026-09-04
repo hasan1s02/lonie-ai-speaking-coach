@@ -9,11 +9,11 @@ const KadenPrivacy = () => {
         <h1 style={{ margin: 0 }}>Privacy Policy</h1>
       </div>
 
-      <p><strong>Kaden mobile app</strong> · Last updated: [DATE] · Effective: [DATE]</p>
+      <p><strong>Kaden mobile app</strong> · Last updated: September 4, 2026 · Effective: September 4, 2026</p>
 
       <p>This policy explains what the Kaden mobile app (“Kaden”, “the app”, “we”, “us”) collects, why, who it is shared with, and how you can delete it. It applies to the app only.</p>
 
-      <p>Controller: [LEGAL ENTITY NAME], [ADDRESS]. Contact: [SUPPORT EMAIL].</p>
+      <p>Controller: Hasan Can Selmo, Istanbul, Turkey. Contact: hasancanselmo07@gmail.com.</p>
 
       <h2>1. The short version</h2>
       <ul>
@@ -108,7 +108,7 @@ const KadenPrivacy = () => {
       <p>Two copies exist:</p>
       <ul>
         <li>On your device, in the app’s private storage. Removing the app removes this copy.</li>
-        <li>In Google Cloud Firestore, in a single document keyed to your anonymous UID, hosted in [REGION]. Security rules allow that document to be read or written only by the anonymous account that owns it. Removing the app does not remove this copy — use the in-app deletion in section 9.</li>
+        <li>In Google Cloud Firestore, in a single document keyed to your anonymous UID, hosted in Europe. Security rules allow that document to be read or written only by the anonymous account that owns it. Removing the app does not remove this copy — use the in-app deletion in section 9.</li>
       </ul>
       <p>Data in transit is encrypted with TLS; data at rest is encrypted by Google Cloud.</p>
 
@@ -162,16 +162,16 @@ const KadenPrivacy = () => {
 
       <h2>11. Your rights</h2>
       <p>Depending on where you live, you may have the right to access, correct, delete, export, restrict or object to the processing of your personal data, and to withdraw consent. Deletion is available inside the app and is complete.</p>
-      <p>For anything else, write to [SUPPORT EMAIL]. Because the app is anonymous, we usually cannot connect a request to a stored record without information only you can provide; we will tell you what is needed, or explain why we cannot comply. You also have the right to complain to your local data protection authority.</p>
+      <p>For anything else, write to hasancanselmo07@gmail.com. Because the app is anonymous, we usually cannot connect a request to a stored record without information only you can provide; we will tell you what is needed, or explain why we cannot comply. You also have the right to complain to your local data protection authority.</p>
 
       <h2>12. Children</h2>
-      <p>Kaden is not intended for children. You must be at least [17 / 18] years old to use it. We do not knowingly collect data from anyone below that age; if you believe a child has used the app, contact us and we will delete the record.</p>
+      <p>Kaden is not intended for children under 13. You must be at least 13 years old to use it. We do not knowingly collect data from anyone below that age; if you believe a child has used the app, contact us and we will delete the record.</p>
 
       <h2>13. Changes</h2>
       <p>If we change this policy we will update the date at the top of this page. If a change is significant, we will surface it in the app before it takes effect.</p>
 
       <h2>14. Contact</h2>
-      <p>[LEGAL ENTITY NAME], [ADDRESS] · [SUPPORT EMAIL]</p>
+      <p>Hasan Can Selmo, Istanbul, Turkey · hasancanselmo07@gmail.com</p>
       <p>You can also report an AI suggestion you found offensive or harmful from Settings → Support → Report an offensive suggestion.</p>
 
     </main>

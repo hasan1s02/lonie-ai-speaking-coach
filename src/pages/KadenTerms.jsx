@@ -9,9 +9,9 @@ const KadenTerms = () => {
         <h1 style={{ margin: 0 }}>Terms of Use</h1>
       </div>
 
-      <p><strong>Kaden mobile app</strong> · Last updated: [DATE] · Effective: [DATE]</p>
+      <p><strong>Kaden mobile app</strong> · Last updated: September 4, 2026 · Effective: September 4, 2026</p>
 
-      <p>These terms are an agreement between you and [LEGAL ENTITY NAME], [ADDRESS] (“we”, “us”) about your use of the Kaden mobile app. By downloading or using Kaden you accept them. If you do not accept them, do not use the app.</p>
+      <p>These terms are an agreement between you and Hasan Can Selmo, Istanbul, Turkey (“we”, “us”) about your use of the Kaden mobile app. By downloading or using Kaden you accept them. If you do not accept them, do not use the app.</p>
 
       <h2>1. What Kaden is</h2>
       <p>Kaden is a 30-day self-improvement program about conversation and social skills. It gives you a short lesson or exercise each day, a small number of conversation exams with an AI character, occasional real-world tasks, and a feature called Second Eye that suggests replies for a conversation you are stuck in.</p>
@@ -19,7 +19,7 @@ const KadenTerms = () => {
       <p>Kaden is not a dating service or a matching service, and we do not promise any particular result, relationship, or outcome.</p>
 
       <h2>2. Who may use it</h2>
-      <p>You must be at least [17 / 18] years old and legally able to enter into this agreement. You may not use Kaden on behalf of anyone else.</p>
+      <p>You must be at least 13 years old and legally able to enter into this agreement. You may not use Kaden on behalf of anyone else.</p>
 
       <h2>3. Your anonymous account</h2>
       <p>Kaden has no sign-up. The app creates an anonymous identity on your device and keeps your progress under it. This means:</p>
@@ -92,10 +92,10 @@ const KadenTerms = () => {
       <p>We may update these terms. The date at the top will change, and if the update is significant we will surface it in the app. Continuing to use Kaden after an update means you accept it.</p>
 
       <h2>14. Governing law</h2>
-      <p>These terms are governed by the laws of [COUNTRY], and disputes will be heard by the courts of [CITY / JURISDICTION], without affecting any right you have to bring a claim in the courts of the country where you live.</p>
+      <p>These terms are governed by the laws of Turkey, and disputes will be heard by the courts of Istanbul, without affecting any right you have to bring a claim in the courts of the country where you live.</p>
 
       <h2>15. Contact</h2>
-      <p>[LEGAL ENTITY NAME], [ADDRESS] · [SUPPORT EMAIL]</p>
+      <p>Hasan Can Selmo, Istanbul, Turkey · hasancanselmo07@gmail.com</p>
 
     </main>
   );
